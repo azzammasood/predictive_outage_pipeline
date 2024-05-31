@@ -1,0 +1,7 @@
+url: jdbc:postgresql://pgbouncer.phoenix.svc.cluster.local/:5432/phoenix
+host: pgbouncer.phoenix.svc.cluster.local
+port: "5432"
+dbname: phoenix
+user: phoenix
+password: phoenix
+connection: both

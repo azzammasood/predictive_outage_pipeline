@@ -1,0 +1,8 @@
+colorlog==6.8.2
+greenlet==3.0.3
+psycopg2-binary==2.9.9
+py4j==0.10.9.7
+pyspark==3.5.1
+PyYAML==6.0.1
+SQLAlchemy==2.0.31
+typing_extensions==4.12.2

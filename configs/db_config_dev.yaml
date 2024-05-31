@@ -1,0 +1,7 @@
+url: jdbc:postgresql://192.168.200.107:5432/phoenix
+host: 192.168.200.107
+port: "5432"
+dbname: phoenix
+user: phoenix
+password: phoenix
+connection: both
